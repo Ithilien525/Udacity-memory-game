@@ -203,6 +203,7 @@ function restartGame() {
     //clear out modal
     clearModal();
     container.classList.remove('disabled');
+    finalStar.innerHTML = `<span>Scores: </span>`;
 }
 
 //clear modal
