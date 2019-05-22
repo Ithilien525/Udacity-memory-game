@@ -14,5 +14,5 @@ This is a memory matching game. Click the cards to flip and see the patterns. Ma
 
 ---
 
-### Lixia
-### Web developer/Interaction designer
+#### Lixia
+#### Web developer/Interaction designer
